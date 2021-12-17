@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This project addresses the challenge of identifying and classifying brain tumours using applied machine learning techniques. It's no secret that brain tumours are worth our time - almost 90 percent of primary nervous system tumours are brain tumours [1]. The classes considered here are Glioma Tumour, Meningioma Tumour, Pituitary Tumour and of course the absence of a Tumour.
+This project addresses the challenge of identifying and classifying brain tumours using applied machine learning techniques. It's no secret that brain tumours are worth our time - almost 90 percent of primary nervous system tumours are brain tumours [1]. The classes considered here are Glioma Tumour, Meningioma Tumour, Pituitary Tumour and of course the absence of a tumour.
 
 Efforts are made here to achieve two goals. First - the ability to identify if a particular MRI scan contains an tumour. Second - the ability to classify the tumour found within the classes previously mentioned.
 
