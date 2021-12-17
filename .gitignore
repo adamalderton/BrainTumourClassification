@@ -1,6 +1,6 @@
 # REPO-SPECIFIC Stuff
-SVM_SFT_saved_data/
-
+# This file is too big for github
+SVM_SFT_saved_data/training_descriptors.npy
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
